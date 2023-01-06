@@ -1,0 +1,27 @@
+.footer {
+    position: absolute; 
+    left: 0 ; right: 0; bottom: 0; 
+    height:[footer-height] 
+}
+
+p{
+    color: rgba(0,0,0,.5);
+}
+
+a:link {
+  color: rgba(0,0,0,.5);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.my-hover a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
